@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Rogue Arena/[Ll]ibrary/
+/Rogue Arena/[Tt]emp/
+/Rogue Arena/[Oo]bj/
+/Rogue Arena/[Bb]uild/
+/Rogue Arena/[Bb]uilds/
+/Rogue Arena/[Ll]ogs/
+/Rogue Arena/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
