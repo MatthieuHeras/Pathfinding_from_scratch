@@ -6,6 +6,6 @@ public class Beacon : MonoBehaviour
 {
     void Start()
     {
-        Destroy(gameObject, 3);
+        Destroy(gameObject, 1f);
     }
 }
